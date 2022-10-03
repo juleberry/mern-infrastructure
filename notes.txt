@@ -1,0 +1,3 @@
+npm run build -- must run every time changes are made in the Express app
+npm i express morgan serve-favicon
+set port for development and declare a proxy
